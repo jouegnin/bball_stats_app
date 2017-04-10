@@ -8,3 +8,4 @@ My next step was to clean the data, which is found in the scripts "table_cleaner
 
 Once I had all the data saved on a CSV file, I created a Shiny web application. The app let the user choose a season, player and the statistic one chooses to display. 
 
+[This is a different version of the same project.](https://jouegnin.shinyapps.io/MU_Stats_Vis/)
